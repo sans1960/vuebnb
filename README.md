@@ -24,7 +24,7 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ### tutorial
 Step-by-step Guide To Building and Deploying a Vue JS App with Netlify in 2021
-###Thanks
+### Thanks
 Nwose Lotanna Victor
 
 
